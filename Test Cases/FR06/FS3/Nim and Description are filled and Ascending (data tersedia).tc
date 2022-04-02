@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1 Field tidak terisi, NIM dan Description terisi, data ascending</description>
+   <name>Nim and Description are filled and Ascending (data tersedia)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>64f196de-418c-4449-b720-3ab45bf77fea</testCaseGuid>
+</TestCaseEntity>
