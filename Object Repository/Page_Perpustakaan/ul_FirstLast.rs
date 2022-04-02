@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_Member Verification</name>
+   <name>ul_FirstLast</name>
    <tag></tag>
-   <elementGuidId>a74fc296-217a-444c-b423-b68979ea3cc0</elementGuidId>
+   <elementGuidId>f7a55587-9945-473e-9b5e-1d8c1fe9e08a</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#BFB10003 > a > span</value>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//li[@id='BFB10003']/a/span</value>
+         <value>//div[@id='tableArea']/div[4]/ul</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,76 +21,62 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>span</value>
+      <value>ul</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pagination pagination-sm no-margin pull-right</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Member Verification</value>
+      <value>First«»Last</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;BFB10003&quot;)/a[1]/span[1]</value>
+      <value>id(&quot;tableArea&quot;)/div[@class=&quot;clearfix&quot;]/ul[@class=&quot;pagination pagination-sm no-margin pull-right&quot;]</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//li[@id='BFB10003']/a/span</value>
+      <value>//div[@id='tableArea']/div[4]/ul</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Book Management'])[1]/following::span[1]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='afandrich3p@fastcompany.com'])[1]/following::ul[1]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[1]/following::span[2]</value>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transaction'])[1]/preceding::span[1]</value>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loan Transaction'])[1]/preceding::span[3]</value>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Member Verification']/parent::*</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Anabal Fandrich'])[1]/following::ul[1]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//li[3]/a/span</value>
+      <value>//div[4]/ul</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//span[(text() = 'Member Verification' or . = 'Member Verification')]</value>
+      <value>//ul[(text() = 'First«»Last' or . = 'First«»Last')]</value>
    </webElementXpaths>
 </WebElementEntity>
