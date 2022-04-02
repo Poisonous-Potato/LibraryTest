@@ -17,4 +17,16 @@
       <isRun>true</isRun>
       <testCaseId>Test Cases/FR05/FS1/Filter Prodi based on Majors</testCaseId>
    </testCaseLink>
+   <testCaseLink>
+      <guid>dbd27aa6-06e9-448b-a066-f32ff0be6fe9</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/FR05/FS2/Submit Complete Data</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>43d595fa-974d-4d0d-a3ec-3b1986b25574</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/FR05/FS2/Submit Incomplete Data</testCaseId>
+   </testCaseLink>
 </TestSuiteEntity>
