@@ -6,12 +6,12 @@
    <elementGuidId>cd6a5cbb-99e6-4cdf-acc3-74a8d0facb1d</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//li[@id='BFB10003']/a</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#BFB10003 > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='BFB10003']/a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
